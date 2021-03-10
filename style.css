@@ -1,0 +1,18 @@
+.name-inputs {
+    background-color: white;
+    width: 80%;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 2px;
+}
+.players-login {
+    background-color: mediumturquoise;
+    width: 75%;
+    margin-left: 12%;
+    border-radius: 20px;
+}
+.button {
+    background-color: midnightblue;
+    width: 10%;
+    color: mintcream;
+}
